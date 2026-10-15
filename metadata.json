@@ -1,0 +1,6 @@
+{
+  "name": "LUFI COMMUNITY - Acervo Digital Vitalício",
+  "description": "Comunidade VIP no Discord com o maior acervo digital do Brasil: fornecedores atacado e digital, softwares vitalícios, packs de tráfego, automações e acesso vitalício.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
